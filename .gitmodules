@@ -1,0 +1,6 @@
+[submodule "scratch-gui"]
+	path = scratch-gui
+	url = git@github.com:novars-jp/scratch-gui.git
+[submodule "scratch-blocks"]
+	path = scratch-blocks
+	url = git@github.com:novars-jp/scratch-blocks.git
